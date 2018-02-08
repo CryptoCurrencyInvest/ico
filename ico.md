@@ -35,7 +35,7 @@
    
    | type      | datetime            | validate                                                                                                                    |
    | :--:      | :--:                | :--:                                                                                                                        |
-   | ETHBought | 2018-02-08 21:50:45 | [ETHBought(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/changeETH1.jpeg)             |
+   | ETHBought | 2018-02-08 21:50:45 | [ETHBought(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH1.jpeg)        |
    | exchange  | 2018-02-08 21:50:45 | [exchange_eth/ht(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange1.png) |
 
       <br>
