@@ -15,7 +15,7 @@
     | Jie Xu            | ![amount_JieXu]()                                |
     | Guang Qing Xu     | ![amount_GuangQingXu]()                          |
     | Jun Jie Xiang     | ![amount_JunJieXiang]()                          |
-    | Jie Jiang         | ![amount_JieJiang](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)|                             |
+    | Jie Jiang         | [amount_JieJiang](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)|                             |
  
 
 3. Get ETH for ICO validate
