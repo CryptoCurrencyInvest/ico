@@ -1,4 +1,4 @@
-### ICO shares
+1. ICO shares
 
     | name              | amount(￥)           | total(￥)               |
     | :--               | :--                 | :--                     |
@@ -8,7 +8,7 @@
     | Jie Jiang         | 1,000.00            | 21,000.00               |
 
 
-### invest amount validate
+2. invest amount validate
 
     | name              | validate                                                                                                                     |
     | :--               | :--                                                                                                                          |
@@ -27,7 +27,7 @@
       <br>
       <br>
 
-### Get ETH for ICO validate
+2. Get ETH for ICO validate
    
    | step                       | validate                              |
    | :--:                       | :--:                                  |
