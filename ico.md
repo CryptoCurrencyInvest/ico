@@ -31,8 +31,19 @@
       <br>
 
 
-2. Get ETH for ICO validate
+3. Get ETH for ICO validate
    
    | step                       | validate                                                                                                            |
    | :--:                       | :--:                                                                                                                |
    | change eth from exchange 1 |   |
+
+      <br>
+      <br>
+
+
+4. project in imtoken validate
+  
+  | type                        | validate                                                                                                            |
+  | :--                         | :--                                                                                                                 |
+  |  | |
+  
