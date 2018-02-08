@@ -7,6 +7,9 @@
     | Jun Jie Xiang     | 2,000.00            | 21,000.00               |
     | Jie Jiang         | 1,000.00            | 21,000.00               |
 
+    <br>
+    <br>
+
 
 2. invest amount validate
 
@@ -26,6 +29,7 @@
 
       <br>
       <br>
+
 
 2. Get ETH for ICO validate
    
