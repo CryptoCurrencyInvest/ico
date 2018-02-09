@@ -37,13 +37,19 @@
    | :--:      | :--:                | :--:                                                                                                                        |
    | ETHBought | 2018-02-08 21:50:45 | [ETHBought(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH1.jpeg)        |
    | exchange  | 2018-02-08 21:50:45 | [exchange_eth/ht(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange1.png) |
+   | exchange  | 2018-02-09 08:31:00 | [exchange_ht/eth(763.47ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/changeETH1.jpeg)|
+   | exchange  | 2018-02-09 10:02:36 | [ex2im1(1.33433169ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/ex2im1.png)            |
+   | imtoken   | 2018-02-09 02:01:52 | [imtokenIn1(1.3243ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn1.jpeg)       |
+   | imtoken   | 2018-02-09 02:49:46 | [imtokenOut1(1.3243ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut1.jpeg)     |
+   | ico       | 2018-02-09 11:01:31 | [ico_bitfincoin(1.3243ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_bitfincoin1.png)|
 
       <br>
       <br>
 
 
-4. project in imtoken validate
-  
-  | type                        | validate                                                                                                            |
-  | :--                         | :--                                                                                                                 |
-  |  | |
+4.  info of project participated
+    
+    | name        | token         | amount     | website                                         | listDatetime        |
+    | :--         | :--           | :--        | :--                                             | :--                 |
+    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 |
+
