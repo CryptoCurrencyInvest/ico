@@ -16,7 +16,7 @@
     | name              | validate                                                                                                                     |
     | :--               | :--                                                                                                                          |
     | Jie Xu            | [amount_JieXu1(3,600.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu1.jpg)               |
-    | Jie Xu            | [amount_JieXu2(4,400.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu2.jpg)              |
+    | Jie Xu            | [amount_JieXu2(4,400.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu2.jpg)               |
     | Guang Qing Xu     | [amount_GuangQingXu(10,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/GuangQingXu.jpeg)   |
     | Jun Jie Xiang     | [amount_JunJieXiang(2,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JunJieXiang.jpeg)    |
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
@@ -47,7 +47,7 @@
    | exchange  | 2018-02-10 13:47:24 | [exchange_ht/eth(763.47HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth2.png) |
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
    | imtoken   | 2018-02-10 06:30:08 | [imtokenOut1(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
-   | ico       | waiting             | wating                                                                                                                          |
+   | ico       | 2018-02-10 02:22:58 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_3dtoken1.png)         |
 
       <br>
       <br>
@@ -55,7 +55,7 @@
 
 4.  info of project participated
     
-    | name        | token         | amount     | website                                         | listDatetime        |
-    | :--         | :--           | :--        | :--                                             | :--                 |
-    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 |
-    | 3D-Token    | 3DT           | wating     | imtoken                                         | wating              |
+    | name        | token         | amount     | website                                         | listDatetime        | comments                                 |
+    | :--         | :--           | :--        | :--                                             | :--                 | :--                                      |
+    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 | exchange                                 | 
+    | 3D-Token    | 3DT           | 3390       | imtoken                                         | 2018-02-20 wating   | exchange, bonus, 0.4$ buy-back, stock    |
