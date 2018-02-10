@@ -22,7 +22,7 @@
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
     | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          |
 
-   * atthention
+   * attention
 
       * if there is not amount validation of invest shares then the shares not recognized
       * if shares not recognized in ICO shares then the shares caculate the common shares and distributed by other shares
@@ -46,7 +46,7 @@
    | exchange  | 2018-02-08 21:50:45 | [exchange_eth/ht(0.822583ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange2.png)    |
    | exchange  | 2018-02-10 13:47:24 | [exchange_ht/eth(763.47HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth2.png) |
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
-   | imtoken   | 2018-02-10 06:30:08 | [imtokenOut1(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
+   | imtoken   | 2018-02-10 06:30:08 | [imtokenOut2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
    | ico       | 2018-02-10 02:22:58 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_3dtoken1.png)         |
 
       <br>
