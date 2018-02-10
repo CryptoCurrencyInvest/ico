@@ -20,21 +20,21 @@
     | Guang Qing Xu     | [amount_GuangQingXu(10,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/GuangQingXu.jpeg)   |
     | Jun Jie Xiang     | [amount_JunJieXiang(2,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JunJieXiang.jpeg)    |
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
-    | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          | 
+    | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          |
 
    * atthention
 
       * if there is not amount validation of invest shares then the shares not recognized
-      * if shares not recognized in ICO shares then the shares caculate the common shares and distributed by other shares  
+      * if shares not recognized in ICO shares then the shares caculate the common shares and distributed by other shares
 
       <br>
       <br>
 
 
 3. ETHBought, exchange, ICO, imtoken validate
-   
+
    | type      | datetime            | validate                                                                                                                        |
-   | :--:      | :--:                | :--:                                                                                                                            | 
+   | :--:      | :--:                | :--:                                                                                                                            |
    | ETHBought | 2018-02-08 21:50:45 | [ETHBought1(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH1.jpeg)           |
    | exchange  | 2018-02-08 21:50:45 | [exchange_eth/ht(2.70045ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange1.png)     |
    | exchange  | 2018-02-09 08:31:00 | [exchange_ht/eth(763.47HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth1.png) |
@@ -54,8 +54,8 @@
 
 
 4.  info of project participated
-    
+
     | name        | token         | amount     | website                                         | listDatetime        | comments                                 |
     | :--         | :--           | :--        | :--                                             | :--                 | :--                                      |
-    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 | exchange                                 | 
+    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 | exchange                                 |
     | 3D-Token    | 3DT           | 3390       | imtoken                                         | 2018-02-20 wating   | exchange, bonus, 0.4$ buy-back, stock    |
