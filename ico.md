@@ -44,7 +44,7 @@
    | ico       | 2018-02-09 11:01:31 | [ico_bitfincoin(1.3243ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_bitfincoin1.png)    |
    | ETHBought | 2018-02-09 17:45:19 | [ETHBought2(0.822583ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH2.png)           |
    | exchange  | 2018-02-08 21:50:45 | [exchange_eth/ht(0.822583ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange2.png)    |
-   | exchange  | 2018-02-10 13:47:24 | [exchange_ht/eth(763.47HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth2.png) |
+   | exchange  | 2018-02-10 13:47:24 | [exchange_ht/eth(610.88HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth2.png) |
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
    | imtoken   | 2018-02-10 06:30:08 | [imtokenOut2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
    | ico       | 2018-02-10 02:22:58 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_3dtoken1.png)         |
