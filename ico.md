@@ -47,7 +47,7 @@
    | exchange  | 2018-02-10 13:47:24 | [exchange_ht/eth(763.47HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth2.png) |
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
    | imtoken   | 2018-02-10 06:30:08 | [imtokenOut1(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
-   | ico       | 
+   | ico       | waiting             | wating                                                                                                                          |
 
       <br>
       <br>
@@ -58,4 +58,4 @@
     | name        | token         | amount     | website                                         | listDatetime        |
     | :--         | :--           | :--        | :--                                             | :--                 |
     | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 |
-    | 3D-Token    | 3DT           |            | imtoken                                         | 
+    | 3D-Token    | 3DT           | wating     | imtoken                                         | wating              |
