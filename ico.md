@@ -49,9 +49,9 @@
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
    | imtoken   | 2018-02-10 06:30:08 | [imtokenOut2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
    | ico       | 2018-02-10 02:22:58 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_3dtoken1.png)         |
-   | BTCBought | 2018-02-08 21:50:45 | [BTCBought(0.090909BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeBTC1.jpeg)           |
-   | ETHBought | 2018-02-08 21:50:45 | [ETHBought1(0.906125ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH3.jpeg)          |
-   | ETHBought | 2018-02-08 21:50:45 | [ETHBought1(1.085776ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH3.jpeg)          |
+   | BTCBought | 2018-02-12 12:38:30 | [BTCBought(0.090909BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeBTC1.jpeg)           |
+   | ETHBought | 2018-02-09 17:45:19 | [ETHBought1(0.906125ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH3.jpeg)          |
+   | ETHBought | 2018-02-08 20:54:37 | [ETHBought1(1.085776ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH4.jpeg)          |
 
       <br>
       <br>
