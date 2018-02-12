@@ -2,10 +2,10 @@
 
     | name              | amount(￥)           | total(￥)               |
     | :--               | :--                 | :--                     |
-    | Jie Xu            | 8,000.00            | 21,000.00               |
-    | Guang Qing Xu     | 10,000.00           | 21,000.00               |
-    | Jun Jie Xiang     | 2,000.00            | 21,000.00               |
-    | Jie Jiang         | 1,000.00            | 21,000.00               |
+    | Jie Xu            | 8,000.00            | 37,000.00               |
+    | Guang Qing Xu     | 10,000.00           | 37,000.00               |
+    | Jun Jie Xiang     | 2,000.00            | 37,000.00               |
+    | Jie Jiang         | 1,000.00            | 37,000.00               |
 
     <br>
     <br>
@@ -17,7 +17,9 @@
     | :--               | :--                                                                                                                          |
     | Jie Xu            | [amount_JieXu1(3,600.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu1.jpg)               |
     | Jie Xu            | [amount_JieXu2(4,400.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu2.jpg)               |
-    | Guang Qing Xu     | [amount_GuangQingXu(10,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/GuangQingXu.jpeg)   |
+    | Jie Xu            | [amount_JieXu2(6,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieXu3.jpg)               |
+    | Guang Qing Xu     | [amount_GuangQingXu(10,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/GuangQingXu1.jpeg)  |
+    | Guang Qing Xu     | [amount_GuangQingXu(10,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/GuangQingXu2.jpeg)  |
     | Jun Jie Xiang     | [amount_JunJieXiang(2,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JunJieXiang.jpeg)    |
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
     | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          |
