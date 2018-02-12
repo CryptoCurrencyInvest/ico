@@ -2,7 +2,7 @@
 
     | name              | amount(￥)           | total(￥)               |
     | :--               | :--                 | :--                     |
-    | Jie Xu            | 14,000.00            | 37,000.00              |
+    | Jie Xu            | 14,000.00           | 37,000.00               |
     | Guang Qing Xu     | 20,000.00           | 37,000.00               |
     | Jun Jie Xiang     | 2,000.00            | 37,000.00               |
     | Jie Jiang         | 1,000.00            | 37,000.00               |
@@ -49,9 +49,12 @@
    | imtoken   | 2018-02-10 05:54:25 | [imtokenIn2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn2.jpeg)           |
    | imtoken   | 2018-02-10 06:30:08 | [imtokenOut2(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut2.jpeg)         |
    | ico       | 2018-02-10 02:22:58 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_3dtoken1.png)         |
-   | BTCBought | 2018-02-12 12:38:30 | [BTCBought(0.090909BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeBTC1.jpeg)           |
-   | ETHBought | 2018-02-09 17:45:19 | [ETHBought1(0.906125ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH3.jpeg)          |
-   | ETHBought | 2018-02-08 20:54:37 | [ETHBought1(1.085776ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH4.jpeg)          |
+   | BTCBought | 2018-02-12 12:38:30 | [BTCBought1(0.090909BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeBTC1.jpeg)          |
+   | ETHBought | 2018-02-12 13:04:46 | [ETHBought3(0.906125ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH3.jpeg)          |
+   | ETHBought | 2018-02-12 12:42:21 | [ETHBought4(1.085776ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH4.jpeg)          |
+   | exchange  | 2018-02-12 13:55:43 | [exchange_btc/ht(0.090910BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange3.png)    |
+   | exchange  | 2018-02-12 13:56:15 | [exchange_eth/ht(1.991898ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange4.png)    |
+   | ETHBought | 2018-02-12 20:24:26 | [ETHBought5(0.355871ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH5.jpeg)          |
 
       <br>
       <br>
