@@ -55,6 +55,7 @@
    | exchange  | 2018-02-12 13:55:43 | [exchange_btc/ht(0.090910BTC)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange3.png)    |
    | exchange  | 2018-02-12 13:56:15 | [exchange_eth/ht(1.991898ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange4.png)    |
    | ETHBought | 2018-02-12 20:24:26 | [ETHBought5(0.355871ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH5.jpeg)          |
+   | exchange  | 2018-02-12 22:21:53 | [exchange_ht/eth(0.355871ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange5.png)    |
 
       <br>
       <br>
