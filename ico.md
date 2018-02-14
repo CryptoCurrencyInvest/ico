@@ -1,11 +1,11 @@
 1. ICO shares
 
-    | name              | amount(￥)           | total(￥)               |
-    | :--               | :--                 | :--                     |
-    | Jie Xu            | 14,000.00           | 37,000.00               |
-    | Guang Qing Xu     | 20,000.00           | 37,000.00               |
-    | Jun Jie Xiang     | 2,000.00            | 37,000.00               |
-    | Jie Jiang         | 1,000.00            | 37,000.00               |
+    | name              | amount(￥)     | total(￥)       |
+    | :--               | :--            | :--            |
+    | Jie Xu            | 14,000.00      | 37,000.00      |
+    | Guang Qing Xu     | 20,000.00      | 37,000.00      |
+    | Jun Jie Xiang     | 2,000.00       | 37,000.00      |
+    | Jie Jiang         | 1,000.00       | 37,000.00      |
 
     <br>
     <br>
@@ -58,11 +58,12 @@
    | exchange  | 2018-02-12 22:21:53 | [exchange_eth/ht(0.355871ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange5.png)            |
    | exchange  | 2018-02-13 22:15:59 | [exchange_ht/eth(2339.63HT)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_hteth3.png)        |
    | exchange  | 2018-02-14 14:16:47 | [exchange_eth/wicc(4.6726ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange6.png)            |
+   | imtoken   | 2018-02-14 21:37:45 | [imtokenOut3(0.0256ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut3_1.jpeg)               |
+   | ico       | 2018-02-14 21:37:45 | [ico_3D-token(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_beat2.png)                    |
    | exchange  | 2018-02-14 22:03:24 | [exchange_wicc/eth(3863.45wicc)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wicceth11.png) |
    | imtoken   | 2018-02-14 22:11:01 | [imtokenIn3(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn3.jpeg)                   |
-   | imtoken   | 2018-02-14 02:49:46 | [imtokenOut3(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut3.jpeg)                 |
-   | ico       | 2018-02-14 21:37:45 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_beat1.png)                    |
-   | ico       | 2018-02-14 22:27:35 | [ico_3D-token(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_beat2.png)                    |
+   | imtoken   | 2018-02-14 22:21:37 | [imtokenOut3(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut3_2.jpeg)               |
+   | ico       | 2018-02-14 22:27:35 | [ico_3D-token(1.0435ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_beat1.png)                    |
 
 
       <br>
