@@ -24,7 +24,7 @@
     | Jun Jie Xiang     | [amount_JunJieXiang(2,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JunJieXiang.jpeg)    |
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
     | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          |
-    | Jian Wen Cheng    | [amount_JieJiang2(20，000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JianWenCheng1.jpeg)  |
+    | Jian Wen Cheng    | [amount_JianWenCheng(20,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JianWenCheng1.jpeg)|
 
    * attention
 
