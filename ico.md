@@ -64,6 +64,8 @@
    | imtoken   | 2018-02-14 22:11:01 | [imtokenIn3(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn3.jpeg)                   |
    | imtoken   | 2018-02-14 22:21:37 | [imtokenOut3_2(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut3_2.jpeg)             |
    | ico       | 2018-02-14 22:27:35 | [ico_beat2(2.1113ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_beat2.png)                       |
+   | exchange  | 2018-02-25 04:58:55 | [exchange_wpr/eth(2.1ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth1.png)         |
+   | exchange  | 2018-02-26 23:18:11 | [exchange_wpr/eth(2.1ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth2.png)         |
 
 
       <br>
