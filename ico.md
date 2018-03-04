@@ -2,11 +2,12 @@
 
     | name              | amount(￥)     | total(￥)       |
     | :--               | :--            | :--            |
-    | Jie Xu            | 14,000.00      | 57,000.00      |
-    | Guang Qing Xu     | 20,000.00      | 57,000.00      |
-    | Jun Jie Xiang     | 2,000.00       | 57,000.00      |
-    | Jie Jiang         | 1,000.00       | 57,000.00      |
-    | Jian Wen Cheng    | 20,000.00      | 57,000.00      |
+    | Jie Xu            | 14,000.00      | 58,500.00      |
+    | Guang Qing Xu     | 20,000.00      | 58,500.00      |
+    | Jun Jie Xiang     | 2,000.00       | 58,500.00      |
+    | Jie Jiang         | 1,000.00       | 58,500.00      |
+    | Jian Wen Cheng    | 20,000.00      | 58,500.00      |
+    | Dai Hai Hu        | 1,500.00       | 58,500.00      |
 
     <br>
     <br>
@@ -25,6 +26,7 @@
     | Jie Jiang         | [amount_JieJiang1(700.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang1.jpeg)          |
     | Jie Jiang         | [amount_JieJiang2(300.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JieJiang2.jpeg)          |
     | Jian Wen Cheng    | [amount_JianWenCheng(20,000.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/JianWenCheng1.jpeg)|
+    | Dai Hai Hu        | [amount_JianWenCheng(1,500.00￥)](https://github.com/CryptoCurrencyInvest/ico/blob/master/sharesValidate/DaiHaiHu1.jpeg)     |
 
    * attention
 
@@ -69,6 +71,8 @@
    | exchange  | 2018-02-25 04:58:55 | [exchange_wpr/eth(2.1ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth1.png)         |
    | exchange  | 2018-02-26 23:18:11 | [exchange_wpr/eth(2.1ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth2.png)         |
    | ETHBought | 2018-03-02 20:52:50 | [ETHBought4(3.558718ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH7.jpeg)                  |
+   | exchange  | 2018-03-03 14:21:13 | [exchange_eth/hsr(3.558718ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_ethhsr1.png)    |
+   | ETHBought | 2018-03-04 18:19:17 | [ETHBought4(0.273522ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH8.jpeg)                  |
 
 
       <br>
@@ -79,6 +83,6 @@
 
     | name        | token         | amount     | website                                         | listDatetime        | comments                                 |
     | :--         | :--           | :--        | :--                                             | :--                 | :--                                      |
-    | bitfincoin  | BIC           | 969        | [bitfincoin](https://bitfincoin.com/site/ico)   | 2018-02-20 22:30:00 | exchange                                 |
+    | bitfincoin  | BIC           | 969        | imtoken                                         | Q2 2018             | exchange, lending mining package         |
     | 3D-Token    | 3DT           | 3390       | imtoken                                         | 2018-02-20 wating   | exchange, bonus, 0.4$ buy-back, stock    |
     | beat        | BEAT          | 309141.8   | imtoken                                         | wating              | exchange                                 |
