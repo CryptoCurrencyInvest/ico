@@ -85,4 +85,4 @@
     | :--         | :--           | :--        | :--                                             | :--                 | :--                                      |
     | bitfincoin  | BIC           | 969        | imtoken                                         | Q2 2018             | exchange, lending mining package         |
     | 3D-Token    | 3DT           | 3390       | imtoken                                         | 2018-02-20 wating   | exchange, bonus, 0.4$ buy-back, stock    |
-    | beat        | BEAT          | 309141.8   | imtoken                                         | wating              | exchange                                 |
+    | beat        | BEAT          | 309141.8   | imtoken                                         | 5/15                | exchange                                 |
