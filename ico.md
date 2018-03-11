@@ -73,6 +73,14 @@
    | ETHBought | 2018-03-02 20:52:50 | [ETHBought4(3.558718ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH7.jpeg)                  |
    | exchange  | 2018-03-03 14:21:13 | [exchange_eth/hsr(3.558718ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_ethhsr1.png)    |
    | ETHBought | 2018-03-04 18:19:17 | [ETHBought4(0.273522ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/changeETH8.jpeg)                  |
+   | exchange  | 2018-03-08 09:17:27 | [exchange_wpr/eth(2.65ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth3.png)        |
+   | exchange  | 2018-03-08 09:17:40 | [exchange_wpr/eth(2.63ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_wpreth4.png)        |
+   | exchange  | 2018-03-08 10:03:32 | [exchange_eth/wax(3.69ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_ethwax1.png)        |
+   | exchange  | 2018-03-08 10:31:47 | [exchange_eth/wax(1.58ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_ethwax2.png)        |
+   | exchange  | 2018-03-11 11:36:57 | [exchange_wax/eth(4.82ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/exchangeInvestValidate/exchange_waxeth1.png)        |
+   | imtoken   | 2018-03-11 11:44:43 | [imtokenIn4(4.80ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenIn4.jpeg)                     |
+   | imtoken   | 2018-03-11 11:54:34 | [imtokenOut4(4.80ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/imtokenFoundValidate/imtokenOut4.jpeg)                   |
+   | ico       | 2018-03-11 16:20:29 | [ico_beat2(3.04ETH)](https://github.com/CryptoCurrencyInvest/ico/blob/master/icoProgressValidate/ico_hqx1.png)                          |
 
 
       <br>
@@ -86,3 +94,4 @@
     | bitfincoin  | BIC           | 969        | imtoken                                         | Q2 2018             | exchange, lending mining package         |
     | 3D-Token    | 3DT           | 3390       | imtoken                                         | 2018-02-20 wating   | exchange, bonus, 0.4$ buy-back, stock    |
     | beat        | BEAT          | 309141.8   | imtoken                                         | 5/15                | exchange                                 |
+    | hoqu        | hqx           | 29956.8    | imtoken                                         | wating              | exchange                                 |
